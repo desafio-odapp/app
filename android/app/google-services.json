@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180119284836",
+    "firebase_url": "https://desafio-odapp.firebaseio.com",
+    "project_id": "desafio-odapp",
+    "storage_bucket": "desafio-odapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180119284836:android:c9050bc794d48364934371",
+        "android_client_info": {
+          "package_name": "com.odapp.desafioodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180119284836-6m9r0bjtn862np2va7re13sobdsli9vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odapp.desafioodapp",
+            "certificate_hash": "00952ee1557951a2a5b550a9363b46e54cf37ab6"
+          }
+        },
+        {
+          "client_id": "180119284836-3e31hkqmgcofrscuobld3182kmo4e092.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB025tESddr-2FF20eq2siAIEbDDXtzEfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180119284836-3e31hkqmgcofrscuobld3182kmo4e092.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
